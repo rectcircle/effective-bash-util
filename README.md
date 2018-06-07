@@ -1,0 +1,1 @@
+# effective-bash-util
